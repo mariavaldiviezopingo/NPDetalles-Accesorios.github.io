@@ -53,4 +53,4 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-console.log("probando la sincronización de mi repositorio remoto con mi repositorio local")
+console.log("modificar linea de prueba")
